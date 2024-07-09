@@ -1,0 +1,14 @@
+P@ssw0rd
+Courage@1234
+Nom: STARHOTEL
+Email: starhotel.inc@ciskotech.com
+
+Tel: +21290114458
+Site Web: https://bbta.test
+
+Lieu: Starhotel, Inc.795 Folsom Ave, Suite 600San Francisco, CA 94107
+
+devise: DH
+Format prix: francophone
+
+Apropos: À STARHOTEL, nous sommes fiers de vous offrir une expérience inoubliable. Niché dans un cadre idyllique, notre hôtel allie confort, hospitalité et services de qualité. Profitez de chambres élégantes, d'un accès illimité aux boissons grâce à notre offre 'Beverages inclus', et régler votre séjour après avoir pleinement profité grâce à notre proposition 'Stay First, Pay After!'. Savourez des plats délicieux à toute heure dans notre restaurant ouvert 24h/24, et détendez-vous avec notre spa inclus. Notre équipe dévouée est à votre disposition pour rendre votre séjour inoubliable. Bienvenue chez STARHOTEL !

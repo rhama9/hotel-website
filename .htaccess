@@ -1,0 +1,2 @@
+ErrorDocument 404 /starhotel/404.php
+ErrorDocument 500 /starhotel/500.php
